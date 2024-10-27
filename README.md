@@ -73,3 +73,7 @@ npm test
 # Build
 npm run build
 ```
+
+## Deployed Link
+
+- [EV Analytics Dashboard](https://evanalyticsdashboard.netlify.app)
